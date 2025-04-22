@@ -22,5 +22,5 @@ Practicar posicionamiento, estilos personalizados y diseño creativo con CSS.
    
 2. Abre index.html en tu navegador.
 
-##👤 Autor
+## 👤 Autor
 Mershar0
